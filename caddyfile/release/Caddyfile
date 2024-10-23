@@ -72,7 +72,6 @@
         import header_realip
     }
     import log ghproxy
-    import cache 0s 300s
     import error_page  
     import encode
     import rate_limit 60  
